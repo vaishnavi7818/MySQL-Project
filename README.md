@@ -1,4 +1,4 @@
-# 📊 Northwind Database – SQL Project  
+# Northwind Database – SQL Project  
 
 This repository contains my **graded project** from the **Hero Vired Certificate Program in Data Analytics**.  
 It is based on the **Northwind Database**, a classic dataset used for learning SQL and data analysis.  
@@ -6,7 +6,7 @@ It is based on the **Northwind Database**, a classic dataset used for learning S
 The project involves creating the database schema and writing SQL queries to answer business-related questions such as customer orders, top products, revenue, and more.  
 
 ---
-## 🎯 Objectives  
+## Objectives  
 - Learn and apply **SQL concepts**:  
   - SELECT, WHERE, ORDER BY  
   - JOINs across multiple tables  
@@ -18,14 +18,14 @@ The project involves creating the database schema and writing SQL queries to ans
 
 ---
 
-## 📝 Assignment Details  
+## Assignment Details  
 - **Course:** Hero Vired Certificate Program in Data Analytics  
 - **Project Type:** Graded SQL Assignment  
 - **Database:** Northwind (Customers, Orders, Products, Employees, Suppliers, etc.)
 
 ---
 
-## 🛠️ What I Did in This Project
+##  What I Did in This Project
 - Designed and implemented the **Northwind Database schema** in MySQL.
 - Wrote **15 SQL queries** as part of a graded assignment covering:
   - Data retrieval (SELECT, WHERE, ORDER BY)
@@ -35,7 +35,7 @@ The project involves creating the database schema and writing SQL queries to ans
   - Ranking and subqueries
 
 ---
-## 🎯 Key Outcomes
+## Key Outcomes
 - Gained strong hands-on experience with **SQL query writing**.
 - Learned how to **translate business problems** into SQL queries.
 - Improved understanding of:
@@ -48,7 +48,7 @@ The project involves creating the database schema and writing SQL queries to ans
   - Which products were never ordered?
 
 ---
-## 🙌 Acknowledgement
+## Acknowledgement
 This project was completed as part of the **Hero Vired Certificate Program in Data Analytics**.  
 Special thanks to:
 - **Hero Vired faculty** for providing guidance and structured assignments.  
